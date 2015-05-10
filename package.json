@@ -1,0 +1,21 @@
+{
+  "name": "fledit.cdn",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fledit/fledit.cdn",
+  "author": {
+    "name": "Fledit",
+    "email": "hello@pirhoo.com",
+    "url": "http://fledit.io"
+  },
+  "repository": "fledit/fledit.cdn",
+  "license": "MIT",
+  "files": [
+    "index.coffee"
+  ],
+  "keywords": [
+    "fledit"
+  ],
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

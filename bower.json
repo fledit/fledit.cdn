@@ -1,0 +1,12 @@
+{
+  "name": "fledit.cdn",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fledit/fledit.cdn",
+  "authors": [
+    "pirhoo <hello@pirhoo.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "fledit": "*"
+  }
+}
