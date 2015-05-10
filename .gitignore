@@ -27,3 +27,6 @@ venv
 # Generated files
 node_modules
 catalog-v001.xml
+
+bower_components
+node_modules
