@@ -18,6 +18,10 @@
   "dependencies": {
     "express": "^4.12.3",
     "coffee-script": "~1.7.1",
-    "foreman": "0.0.26"
+    "foreman": "0.0.26",
+    "bower": "*"
+  },
+  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install"
   }
 }
