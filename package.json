@@ -16,6 +16,8 @@
     "fledit"
   ],
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "coffee-script": "~1.7.1",
+    "foreman": "0.0.26"
   }
 }
